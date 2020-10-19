@@ -1,7 +1,7 @@
 # COVID-environmental-impact
 ## Exploring the impact of COVID on air quality and single-use plastic  
 
-We have seen numerous bold statements in news articles which claim that COVID has affected the environment in important ways. Some claim that it has "saved our planet" while others point to the rise in single-use plastic as a major concern. We noticed that these claims were rarely accompanied by data supporting their findings, so we wanted to assess the validity of these statements. This project was developed through Correlation One's [Data Science For All: Women's Summit 2020](https://www.correlation-one.com/ds4a).  
+We have seen many news articles boldly state that COVID has affected the environment in important ways. Some claim that it has "saved our planet" while others point to the rise in single-use plastic as a major concern. We noticed that these claims were rarely accompanied by data supporting their findings, so we wanted to assess the validity of these statements. This project was developed through Correlation One's [Data Science For All: Women's Summit 2020](https://www.correlation-one.com/ds4a).  
 
 ## Our aims in this project were to:  
 1) Identify the trends in plastic production in the United States over the last 2 years and whether there has been an increase in the production due to the pandemic
