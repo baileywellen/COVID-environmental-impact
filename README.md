@@ -19,6 +19,8 @@ We have seen numerous bold statements in news articles which claim that COVID ha
     * 1 sample t tests 
     * Pearson and Spearman correlation coefficients  
     
+    
+## Results  
 Find our conclusions in the poster below or in our [project report](/documents/Final_Report.pdf).  
 
 ![Project Poster](/documents/Project_Poster.jpg)  
